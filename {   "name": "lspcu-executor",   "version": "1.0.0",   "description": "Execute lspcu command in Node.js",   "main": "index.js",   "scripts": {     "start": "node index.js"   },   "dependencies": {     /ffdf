@@ -1,0 +1,18 @@
+{
+  "name": "lspcu-executor",
+  "version": "1.0.0",
+  "description": "Execute lspcu command in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    // Add any dependencies your project may need
+  },
+  "devDependencies": {
+    // Add any development dependencies if needed
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT"
+}
